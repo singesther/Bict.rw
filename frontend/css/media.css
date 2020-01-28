@@ -1,0 +1,38 @@
+@media(max-width:767px){
+	  #card {
+
+    background-color: white;
+    float: left;
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    margin: 0 auto;
+    margin-bottom:40px;
+  }
+   #logo{
+  width:100px;
+  height: 91px;
+  margin-top: -35px;
+}
+}
+
+@media(min-width:767px) and (max-width:1199px){
+	  #card {
+    background-color: white;
+    float: left;
+    width:40%;
+    height: auto;
+    overflow: hidden;
+    margin: 0 auto;
+    margin-bottom:40px;
+    margin-left:40px;
+  }
+  #teemimg{
+    height:210px;
+  }
+   #logo{
+  width:100px;
+  height: 91px;
+  margin-top: -35px;
+}
+}
